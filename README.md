@@ -1,5 +1,5 @@
 # chat-sockets-python
 
-Practive with sockets for server - client chat app 
+Practice with sockets in python for server - client chat app from online guides
 
 TODO - Fix broadcast function in client to work with tk gui 
